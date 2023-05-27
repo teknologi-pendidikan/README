@@ -4,12 +4,12 @@ Apa yang membuat kita berbeda dari orang lain? Apa yang membuat kita unik? Apa y
 
 | Dokumen                                              | Gambaran Umum                                                                           |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| [Tentang Kami](/culture/tentang-kami.md)             | Dokumen yang ditujukan untuk pihak eksternal tentang apa yang dilakukan oleh organisasi |
-| [Komitmen](/culture/komitmen.md)                     | Komitmen kami terhadap lingkungan kerja                                                 |
-| [Struktur Organisasi](/culture/struktur.md)          | Susunan dan struktur operasional kami dalam bekerja                                     |
-| [Tugas dan Wewenang](/culture/tugas-wewenang.md)     | Apa dan hal yang bisa dilakukan oleh para anggota organisasi                            |
-| [Keanggotaan](/culture/keanggotaan.md)               | Bagaimana kami memperlakukan tim kami                                                   |
-| [Penerimaan Anggota](/culture/penerimaan-anggota.md) | Cara kami merekrut anggota baru                                                         |
+| [Tentang Kami](/culture/tentang-kami)             | Dokumen yang ditujukan untuk pihak eksternal tentang apa yang dilakukan oleh organisasi |
+| [Komitmen](/culture/komitmen)                     | Komitmen kami terhadap lingkungan kerja                                                 |
+| [Struktur Organisasi](/culture/struktur)          | Susunan dan struktur operasional kami dalam bekerja                                     |
+| [Tugas dan Wewenang](/culture/tugas-wewenang)     | Apa dan hal yang bisa dilakukan oleh para anggota organisasi                            |
+| [Keanggotaan](/culture/keanggotaan)               | Bagaimana kami memperlakukan tim kami                                                   |
+| [Penerimaan Anggota](/culture/penerimaan-anggota) | Cara kami merekrut anggota baru                                                         |
 
 ## Tentang Teknologi Pendidikan ID
 

@@ -17,7 +17,7 @@ Dalam menjalankan operasionalnya, EDTECH-ID memiliki anggota yang terdiri dari:
 
 ## Penerimaan Anggota
 
-Keanggotaan pada Teknologi Pendidikan ID bersifat terbuka, yang artinya semua orang dapat melamar sebagai anggota anggota organisasi. Untuk menjadi anggota organisasi, calon anggota harus mengikuti serangkaian proses penerimaan anggota dan persyaratan yang telah ditentukan. Anda dapat membaca lebih lanjut tentang tahapan penerimaaan anggota di dokumen [Proses Penerimaan Anggota](/culture/penerimaan-anggota.md).
+Keanggotaan pada Teknologi Pendidikan ID bersifat terbuka, yang artinya semua orang dapat melamar sebagai anggota anggota organisasi. Untuk menjadi anggota organisasi, calon anggota harus mengikuti serangkaian proses penerimaan anggota dan persyaratan yang telah ditentukan. Anda dapat membaca lebih lanjut tentang tahapan penerimaaan anggota di dokumen [Proses Penerimaan Anggota](/culture/penerimaan-anggota).
 
 ### Persyaratan Umum
 
@@ -45,11 +45,11 @@ Anggota organisasi dapat diberhentikan dari organisasi dengan beberapa alasan, d
 4. Anggota melanggar peraturan organisasi
 5. Anggota melanggar hukum yang berlaku di Indonesia
 
-Anda dapat membaca lebih lanjut tentang pemberhentian anggota di dokumen [Pemberhentian Anggota](/culture/pemberhentian-anggota.md).
+Anda dapat membaca lebih lanjut tentang pemberhentian anggota di dokumen [Pemberhentian Anggota](/culture/pemberhentian-anggota).
 
 ## Jenjang Karir Anggota
 
-Teknologi Pendidikan ID berkomitmen untuk memberikan kesempatan kepada anggota untuk mengembangkan diri dan karirnya. Untuk itu, Teknologi Pendidikan ID memiliki beberapa jenjang karir yang dapat dicapai oleh anggota organisasi. Penerapan jenjang karir di Teknologi Pendidikan ID merupakan bentuk apresiasi tertinggi dari organisasi kepada anggota yang telah berkontribusi secara nyata dalam perkembangan organisasi. Hal ini menjadi salah satu penerapan nilai [Keterbukaan Kepemimpinan](/culture/tentang-kami.md) di Teknologi Pendidikan ID. Adapun jenjang karir yang dapat dicapai oleh para anggota diantaranya:
+Teknologi Pendidikan ID berkomitmen untuk memberikan kesempatan kepada anggota untuk mengembangkan diri dan karirnya. Untuk itu, Teknologi Pendidikan ID memiliki beberapa jenjang karir yang dapat dicapai oleh anggota organisasi. Penerapan jenjang karir di Teknologi Pendidikan ID merupakan bentuk apresiasi tertinggi dari organisasi kepada anggota yang telah berkontribusi secara nyata dalam perkembangan organisasi. Hal ini menjadi salah satu penerapan nilai [Keterbukaan Kepemimpinan](/culture/tentang-kami) di Teknologi Pendidikan ID. Adapun jenjang karir yang dapat dicapai oleh para anggota diantaranya:
 
 | Jenjang Karir      | Keterangan                                                                                    |
 | ------------------ | --------------------------------------------------------------------------------------------- |
@@ -60,8 +60,8 @@ Teknologi Pendidikan ID berkomitmen untuk memberikan kesempatan kepada anggota u
 | Koordinator Utama  | Mengelola pelaksanaan program - program yang dijalankan oleh organisasi.                      |
 | Staff Ahli Lembaga | Melaksanakan layanan utama lembaga organisasi dan membina proses pengelolaan program.         |
 
-Jenjang karir tersebut hanya berlaku pada jenjang karir dalam program yang dijalankan oleh organisasi. Tidak terdapat jenjang karir dalam struktur Teknologi Pendidikan ID yang meliputi Direktur Organisasi, Pejabat Lembaga dan Staff Lembaga. Sehingga jenjang karir tertinggi yang dapat dicapai oleh anggota organisasi adalah Staff Ahli Lembaga. Anda dapat membaca lebih lanjut tentang jenjang karir di Teknologi Pendidikan ID di dokumen [Jenjang Karir](/culture/jenjang-karir.md).
+Jenjang karir tersebut hanya berlaku pada jenjang karir dalam program yang dijalankan oleh organisasi. Tidak terdapat jenjang karir dalam struktur Teknologi Pendidikan ID yang meliputi Direktur Organisasi, Pejabat Lembaga dan Staff Lembaga. Sehingga jenjang karir tertinggi yang dapat dicapai oleh anggota organisasi adalah Staff Ahli Lembaga. Anda dapat membaca lebih lanjut tentang jenjang karir di Teknologi Pendidikan ID di dokumen [Jenjang Karir](/culture/jenjang-karir).
 
 ## Kedudukan Anggota
 
-Dalam status kedudukan, setiap anggota memiliki status yang sama terlepas dari jabatan dan jenjang karir yang dimiliki. Hal ini merupakan bentuk penerapan nilai [Keterbukaan Kepemimpinan](/culture/tentang-kami.md) di Teknologi Pendidikan ID. Sehingga setiap anggota memiliki hak dan kewajiban yang sama dalam menjalankan operasional organisasi. Tidak terdapat pembungkaman suara dan pendapat dari anggota lainnya. Namun proses pengambilan keputusan tetap dilakukan oleh Direktur Organisasi sebagai pimpinan operasional organisasi Teknologi Pendidikan ID.
+Dalam status kedudukan, setiap anggota memiliki status yang sama terlepas dari jabatan dan jenjang karir yang dimiliki. Hal ini merupakan bentuk penerapan nilai [Keterbukaan Kepemimpinan](/culture/tentang-kami) di Teknologi Pendidikan ID. Sehingga setiap anggota memiliki hak dan kewajiban yang sama dalam menjalankan operasional organisasi. Tidak terdapat pembungkaman suara dan pendapat dari anggota lainnya. Namun proses pengambilan keputusan tetap dilakukan oleh Direktur Organisasi sebagai pimpinan operasional organisasi Teknologi Pendidikan ID.

@@ -35,7 +35,7 @@ Proses penerimaan anggota dilakukan dalam beberapa tahapan. Seluruh proses tahap
 
 Secara umum, wawancara kita akan berlangsung dalam empat tahap:
 
-- Wawancara Rekruiter: Panggilan video dengan [Subdit Sumber Daya Manusia](/culture/struktur.md).
+- Wawancara Rekruiter: Panggilan video dengan [Subdit Sumber Daya Manusia](/culture/struktur).
 - Wawancara Bidang: Panggilan video dengan pejabat lembaga yang akan menjadi tempat anda bekerja.
 - Wawancara Team: Panggilan video dengan tim pelaksana program yang akan anda ikuti.
 - Wawancara Direktur: Panggilan video dengan direktur organisasi.
@@ -66,7 +66,7 @@ Pada tahap ini, anda akan diwawancarai oleh tim pelaksana program yang akan anda
 
 ### Wawancara Direktur
 
-Wawancara paling akhir ialah wawancara dengan direktur organisasi atau lembaga. Disinilah kesempatan kalian untuk mengajukan pertanyaan yang sangat unik dan luar biasa tentang Teknologi Pendidikan ID, baik tentang posisi, arah organisasi, hingga ekspetasi jangka panjang untuk berkembang di organisasi. Anda akan diajukan beberapa pertanyaan unik untuk menilai kesiapan dan potensi potensi yang dapat dikembangkan di Teknologi Pendidikan dan dan keseusian dengan [Nilai Nilai Budaya](/culture/tentang-kami.md) organisasi.
+Wawancara paling akhir ialah wawancara dengan direktur organisasi atau lembaga. Disinilah kesempatan kalian untuk mengajukan pertanyaan yang sangat unik dan luar biasa tentang Teknologi Pendidikan ID, baik tentang posisi, arah organisasi, hingga ekspetasi jangka panjang untuk berkembang di organisasi. Anda akan diajukan beberapa pertanyaan unik untuk menilai kesiapan dan potensi potensi yang dapat dikembangkan di Teknologi Pendidikan dan dan keseusian dengan [Nilai Nilai Budaya](/culture/tentang-kami) organisasi.
 
 ### Referensi
 

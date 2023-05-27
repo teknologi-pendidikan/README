@@ -8,7 +8,7 @@ Teknologi Pendidikan ID dalam skemanya, membuka kesempatan kerjasama dengan berb
 2. Pemohon telah memiliki rencana kerjasama yang akan dilakukan bersama Teknologi Pendidikan ID.
 3. Pemohon tidak pernah terlibat dalam masalah hukum pidana ataupun perdata di Indonesia ataupun Luar Negeri.
 4. Pemohon memiliki kemampuan untuk melaksanakan kerjasama yang diajukan.
-5. Pemohon telah mengetahui dan memahami [Visi Misi dan Tujuan](/culture/tentang-kami.md) Teknologi Pendidikan ID.
+5. Pemohon telah mengetahui dan memahami [Visi Misi dan Tujuan](/culture/tentang-kami) Teknologi Pendidikan ID.
 
 ## Administrasi dan Pemberkasan
 
@@ -23,14 +23,14 @@ Teknologi Pendidikan ID dalam skemanya, membuka kesempatan kerjasama dengan berb
 9. Draft Perjanjian Kerjasama (MoA)
 10. Non-Disclosure Agreement (NDA)
 
-Baca lebih lanjut mengenai pemberkasan yang perlu disiapkan di [Dokumen Administrasi Kerjasama](/kerjasama/administrasi.md)
+Baca lebih lanjut mengenai pemberkasan yang perlu disiapkan di [Dokumen Administrasi Kerjasama](/kerjasama/administrasi)
 
 ## Dokumen Teknis Kerjasama
 
 | Dokumen                                                      | Gambaran Umum                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------------- |
-| [Alur Pengajuan Kerjasama](/kerjasama/alur-pengajuan.md)     | Alur pengajuan kerjasama dengan Teknologi Pendidikan ID             |
-| [Dokumen Administrasi Kerjasama](/kerjasama/administrasi.md) | Dokumen administrasi yang perlu disiapkan untuk pengajuan kerjasama |
+| [Alur Pengajuan Kerjasama](/kerjasama/alur-pengajuan)     | Alur pengajuan kerjasama dengan Teknologi Pendidikan ID             |
+| [Dokumen Administrasi Kerjasama](/kerjasama/administrasi) | Dokumen administrasi yang perlu disiapkan untuk pengajuan kerjasama |
 
 ## Tentang Teknologi Pendidikan ID
 
