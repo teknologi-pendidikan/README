@@ -11,6 +11,8 @@ Kami menciptakan, memanfaatkan, dan mengelola teknologi yang tersedia di lingkun
 
 Layaknya era pendidikan dan kehidupan manusia, kita dituntut untuk bergerak secara adaptif dan kolaboratif dengan tujuan menciptakan kehidupan yang lebih baik bagi diri sendiri dan masyarakat luas.
 
+Unduh [Organization Profile](https://is3.cloudhost.id/teknologipendidikan/Organization-Profile.pdf) atau dokumen [Prospektus Organisasi](https://is3.cloudhost.id/teknologipendidikan/Prospektus.pdf) untuk mendapatkan pengalaman membaca yang lebih baik. Silahkan untuk mensebarluaskan kedua dokumen tersebut sebagai rujukan atau referensi tentang organisasi ini.
+
 ## Background Stories
 
 Berawal dari keresahan bersama, akan kurangnya media publikasi atau sarana branding tentang jurusan yang kami tekuni, menjadi landasan awal berdirinya edtech, diawali dengan inovasi tingkat lanjut dari komunitas kepenulisan. Secara berkala kami membangun komunitas ini secara suka cita berharap dapat menjadi wadah berekspresi pada bidang yang kami gemari yaitu teknologi pendidikan. 
