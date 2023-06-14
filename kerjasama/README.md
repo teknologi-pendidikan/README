@@ -25,12 +25,13 @@ Teknologi Pendidikan ID dalam skemanya, membuka kesempatan kerjasama dengan berb
 
 Baca lebih lanjut mengenai pemberkasan yang perlu disiapkan di [Dokumen Administrasi Kerjasama](/kerjasama/administrasi)
 
-## Dokumen Teknis Kerjasama
+## Informasi Teknis Kerjasama
 
-| Dokumen                                                      | Gambaran Umum                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------------- |
+| Dokumen                                                   | Gambaran Umum                                                       |
+| --------------------------------------------------------- | ------------------------------------------------------------------- |
 | [Alur Pengajuan Kerjasama](/kerjasama/alur-pengajuan)     | Alur pengajuan kerjasama dengan Teknologi Pendidikan ID             |
 | [Dokumen Administrasi Kerjasama](/kerjasama/administrasi) | Dokumen administrasi yang perlu disiapkan untuk pengajuan kerjasama |
+| [Data Kerjasama](/kerjasama/data)                         | Data kerjasama yang telah dilakukan oleh Teknologi Pendidikan ID    |
 
 ## Tentang Teknologi Pendidikan ID
 
