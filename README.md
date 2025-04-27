@@ -1,21 +1,47 @@
-# Ekosistem Teknologi Pendidikan ID
+# Teknologi Pendidikan ID
 
-Selamat datang di Teknologi Pendidikan ID. Jika anda adalah anggota baru ataupun organisasi yang bekerjasama dengan kami, kami ucapkan selamat datang dan terima kasih atas kepercayaan anda. Berikut [dokumen onboarding](/onboarding#readme) yang dapat anda pelajari untuk memulai berkontribusi bersama kami.
+Teknologi Pendidikan ID (abbreviated as EDTECH-ID) is an independent, non-profit, and non-partisan research organization focused on the application and development of theories, studies, and research to facilitate learning and improve human learning performance.
 
-Sebelum beranjak lebih jauh lagi, kami ingin mengajak anda untuk membaca sekilas tentang [Teknologi Pendidikan ID](/culture#readme).
+We believe that lifelong learning is a fundamental right for all individuals, regardless of their background, status, or geography.
 
-Kami membagi repository ini menjadi beberapa bagian, setiap bagian akan memiliki penjelasan singkat dari isi bagian tersebut. Berikut adalah bagian-bagian yang ada di repository ini:
+Operating as a non-profit division under the legal and financial umbrella of PT Inovasi Teknologi Pembelajaran, EDTECH-ID is committed to advancing educational technology through open science, open access initiatives, and community-driven collaboration.
 
-| Bagian                                   | Deskripsi                                                                               |
-| ---------------------------------------- | --------------------------------------------------------------------------------------- |
-| [Onboarding Docs](/onboarding#readme)    | Dokumen onboarding untuk anggota baru dan organisasi yang bekerjasama.                  |
-| [Tentang EDTECH-ID](/culture#readme)     | Dokumen yang berisi tentang profil organisasi, nilai-nilai, dan operasional organisasi. |
-| [Informasi Kerjasama](/kerjasama#readme) | Dokumen yang berisi tentang cara berkolaborasi dan kerjasama                            |
+We engage in research, advocacy, technology development, and knowledge dissemination to foster inclusive learning ecosystems, particularly supporting underserved and marginalized communities.
 
-## Tentang Teknologi Pendidikan ID
+## Vision
 
-<a href="https://www.artsy.net/">
+To create an inclusive and sustainable learning environment through educational technology, ensuring that everyone, regardless of their background or location, has access to lifelong learning opportunities.
+
+## Mission
+
+1. Conduct Research: Carry out high-quality research to improve learning and inform educational practices around the world.
+
+2. Advocate for Policy: Support policies that promote lifelong learning and equitable education, especially for underserved communities.
+
+3. Develop Technology: Create open-source, scalable tools that make education more accessible to all.
+
+4. Empower Communities: Work with local and global communities to develop and share educational solutions that meet diverse needs.
+
+5. Share Knowledge: Publish research and resources to contribute to global discussions on educational technology and innovation.
+
+## Core Principles
+
+1. Evidence-Based: Our work is rooted in solid research and data to ensure effective outcomes.
+
+2. Inclusive: We focus on engaging marginalized communities and making sure everyone benefits from our work.
+
+3. Open Access: We believe in making our research and tools freely available to ensure wide-reaching impact.
+
+4. Collaboration: We work with governments, organizations, and communities to maximize the effectiveness of our projects.
+
+5. Sustainability: We design solutions that can evolve and adapt as technology and educational needs change.
+
+6. Transparency: We are committed to being open and accountable in all our work.
+
+
+
+<a href="https://teknologipenidikan.or.id/">
   <img align="left" src="https://avatars.githubusercontent.com/u/74242819?s=200&v=4"/>
 </a>
 
-Kami adalah sekelompok kecil ahli teknologi pendidikan yang memiliki misi untuk membuat pendidikan di Indonesia terbuka dan dapat diakses oleh semua orang. Kami bekerja sama dengan berbagai lembaga pendidikan dan mitra teknologi. Sebagai lembaga yang belajar dan membelajarkan ilmu pengetahuan, Inovasi menjadi orientasi kami dalam bergerak dan memberikan pelayanan. Melalui teknologi, kami membuka cakrawala baru bagi setiap individu yang belajar dan terus belajar. Sehingga terjadilah proses pembelajaran sepanjang hayat bagi para pebelajar.
+Teknologi Pendidikan ID (EDTECH-ID) is an independent, non-profit research organization focused on advancing educational technology and promoting lifelong learning for all, through open science, advocacy, and community collaboration.
