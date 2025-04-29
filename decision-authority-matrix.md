@@ -1,6 +1,7 @@
 # Appendix D: Decision Authority Matrix
 
 ## Purpose
+
 This Decision Authority Matrix (DAM) clearly defines decision-making authority across PT Inovasi Teknologi Pembelajaran and EDTECH-ID. It serves as a reference for leadership and staff to understand who has the authority to make specific decisions, who must be consulted, and who should be informed of decisions after they are made.
 
 ## Decision Authority Levels

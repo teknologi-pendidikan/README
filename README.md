@@ -38,7 +38,20 @@ To create an inclusive and sustainable learning environment through educational 
 
 6. Transparency: We are committed to being open and accountable in all our work.
 
+## Policies
 
+### Organizational Policies
+
+- [Organizational Structure and Governance Policy](/organizational-structure-policy.md)
+- [Financial Separation Policy](/financial-separation-policy.md)
+- [Decision Authority Matrix](/decision-authority-matrix.md)
+
+### Research Policies
+
+- [Research Integrity Policy](/research-integrity-policy-framework.md)
+- [Conflict of Interest Policy](/conflict-of-interest-policy.md)
+- [Open Access and Open Data Policy](/open-access-and-open-data-policy.md)
+- [Intellectual Property Policy](/intellectual-property-policy.md)
 
 <a href="https://teknologipenidikan.or.id/">
   <img align="left" src="https://avatars.githubusercontent.com/u/74242819?s=200&v=4"/>
