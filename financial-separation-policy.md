@@ -4,10 +4,9 @@
 
 - **Document Title:** Financial Separation Policy
 - **Version:** 1.0
-- **Effective Date:** [Insert Date]
-- **Review Date:** [Insert Date - 1 year from effective date]
-- **Document Owner:** [Finance Director/CFO]
-- **Approved By:** [Board of Directors/CEO]
+- **Effective Date:** 01 January 2026
+- **Document Owner:** Direktur Organisasi
+- **Initial Implementation Date:** 01 May 2025
 
 ## 1. Purpose and Scope
 
@@ -218,6 +217,6 @@ PT Inovasi Teknologi Pembelajaran is the legal entity that houses EDTECH-ID as a
 
 This policy has been approved by:
 
-[Name]
-[Title]
-[Date]
+Rengga Prakoso Nugroho
+Direktur Organisasi
+01 May 2025

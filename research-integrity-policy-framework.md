@@ -16,6 +16,7 @@ This policy establishes the principles, standards, and procedures that govern re
 
 ### 1.1 Mission Alignment
 
+    `
 All research conducted under EDTECH-ID must directly support its mission to advance educational technology through theory, studies, and research that facilitates learning and improves human learning performance. Research priorities shall be determined by educational needs and knowledge gaps rather than commercial interests.
 
 ### 1.2 Ethical Standards
