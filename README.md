@@ -52,6 +52,7 @@ To create an inclusive and sustainable learning environment through educational 
 - [Conflict of Interest Policy](/conflict-of-interest-policy.md)
 - [Open Access and Open Data Policy](/open-access-and-open-data-policy.md)
 - [Intellectual Property Policy](/intellectual-property-policy.md)
+- [Funding Policy](/funding-policy.md)
 
 <a href="https://teknologipenidikan.or.id/">
   <img align="left" src="https://avatars.githubusercontent.com/u/74242819?s=200&v=4"/>
